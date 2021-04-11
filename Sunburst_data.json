@@ -5,6 +5,7 @@
      {
       "name": "CAM",
       "children": [
+          
        {
         "name": "BMPSNG",
         "children": [
@@ -12,59 +13,35 @@
              "children": [
                  {"name":"Fail","size":2}
              ]
-            }
-        ]
-       },
-       {
-        "name": "BMPSNG",
-        "children": [
+            },
          {"name": "CAM1009-N",
              "children": [
                  {"name":"Pass","size":31}
              ]
-            }
-        ]
-       },
-       {
-        "name": "BMPSNG",
-        "children": [
+            },
          {"name": "GAV0003-N",
              "children": [
                  {"name":"Fail","size":22}
              ]
-            }
-        ]
-       },
-       {
-        "name": "BMPSNG",
-        "children": [
+            },
          {"name": "GAV0003-N",
              "children": [
                  {"name":"Pass","size":60}
              ]
-            }
-        ]
-       },
-       {
-        "name": "BMPSNG",
-        "children": [
+            },
          {"name": "MFP2007-N",
              "children": [
                  {"name":"Fail","size":1}
              ]
-            }
-        ]
-       },
-       {
-        "name": "BMPSNG",
-        "children": [
+            },
          {"name": "MFP2007-N",
              "children": [
                  {"name":"Pass","size":2}
              ]
-            }
+            }                                    
         ]
-       }, 
+       },
+
        {
         "name": "CAMA",
         "children": [
