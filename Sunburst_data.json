@@ -11,34 +11,23 @@
         "children": [
          {"name": "CAM1009-N",
              "children": [
-                 {"name":"Fail","size":2}
-             ]
-            },
-         {"name": "CAM1009-N",
-             "children": [
+                 {"name":"Fail","size":2},
                  {"name":"Pass","size":31}
              ]
             },
+
          {"name": "GAV0003-N",
              "children": [
-                 {"name":"Fail","size":22}
-             ]
-            },
-         {"name": "GAV0003-N",
-             "children": [
+                 {"name":"Fail","size":22},
                  {"name":"Pass","size":60}
              ]
             },
          {"name": "MFP2007-N",
              "children": [
-                 {"name":"Fail","size":1}
-             ]
-            },
-         {"name": "MFP2007-N",
-             "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":2}
              ]
-            }                                    
+            }                                   
         ]
        },
 
