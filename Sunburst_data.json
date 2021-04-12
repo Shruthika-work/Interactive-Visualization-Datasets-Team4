@@ -6,7 +6,7 @@
       "name": "CAM",
       "children": [
           
-       {
+              {
         "name": "BMPSNG",
         "children": [
          {"name": "CAM1009-N",
@@ -36,361 +36,142 @@
         "children": [
          {"name": "GAV4018-N",
              "children": [
-                 {"name":"Fail","size":4}
+                 {"name":"Fail","size":4},
+                 {"name":"Pass","size":48}
+
              ]
             }
         ]
        }, 
-       {
-        "name": "CAMA",
-        "children": [
-         {"name": "GAV4018-N",
-             "children": [
-                 {"name":"Pass","size":48}
-             ]
-            }
-        ]
-       },
+
        {
         "name": "CATSNG",
         "children": [
          {"name": "GAV0004-N",
              "children": [
-                 {"name":"Fail","size":14}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV0004-N",
-             "children": [
+                 {"name":"Fail","size":14},
                  {"name":"Pass","size":34}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
+            },
          {"name": "GAV1003-N",
              "children": [
-                 {"name":"Fail","size":30}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV1003-N",
-             "children": [
+                 {"name":"Fail","size":30},
                  {"name":"Pass","size":180}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
+            },
          {"name": "GAV1015-N",
              "children": [
-                 {"name":"Fail","size":27}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV1015-N",
-             "children": [
+                 {"name":"Fail","size":27},
                  {"name":"Pass","size":222}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
+            },
          {"name": "GAV2007-N",
              "children": [
-                 {"name":"Fail","size":11}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV2007-N",
-             "children": [
+                 {"name":"Fail","size":11},
                  {"name":"Pass","size":58}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
+            },
          {"name": "GAV2028-N",
              "children": [
-                 {"name":"Fail","size":10}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV2028-N",
-             "children": [
+                 {"name":"Fail","size":10},
                  {"name":"Pass","size":60}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
+            },
          {"name": "GAV3003-N",
              "children": [
-                 {"name":"Fail","size":3}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV3003-N",
-             "children": [
+                 {"name":"Fail","size":3},
                  {"name":"Pass","size":39}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
+            },
          {"name": "GAV3010-N",
              "children": [
-                 {"name":"Fail","size":1}
+                 {"name":"Fail","size":1},
+                 {"name":"Pass","size":41}
              ]
-            }
-        ]
-       },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV3010-N",
+            },
+         {"name": "GAV3021-N",
              "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":41}
              ]
             }
         ]
-       },  
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV3021-N",
-             "children": [
-                 {"name":"Fail","size":1}
-             ]
-            }
-        ]
        },
-       {
-        "name": "CATSNG",
-        "children": [
-         {"name": "GAV3021-N",
-             "children": [
-                 {"name":"Pass","size":41}
-             ]
-            }
-        ]
-       }, 
+
        {
         "name": "CGNBA",
         "children": [
          {"name": "CAM1031-N",
              "children": [
-                 {"name":"Fail","size":3}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CGNBA",
-        "children": [
-         {"name": "CAM1031-N",
-             "children": [
+                 {"name":"Fail","size":3},
                  {"name":"Pass","size":15}
              ]
             }
         ]
        },
+
        {
         "name": "CGSSNG",
         "children": [
          {"name": "DES2187-N",
              "children": [
-                 {"name":"Fail","size":4}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CGSSNG",
-        "children": [
-         {"name": "DES2187-N",
-             "children": [
+                 {"name":"Fail","size":4},
                  {"name":"Pass","size":25}
              ]
-            }
-        ]
-       },   
-       {
-        "name": "CGSSNG",
-        "children": [
+            },
          {"name": "DES2188-N",
              "children": [
-                 {"name":"Fail","size":3}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CGSSNG",
-        "children": [
-         {"name": "DES2188-N",
-             "children": [
+                 {"name":"Fail","size":3},
                  {"name":"Pass","size":29}
              ]
-            }
-        ]
-       }, 
-       {
-        "name": "CGSSNG",
-        "children": [
+            },
          {"name": "DES2193-N",
              "children": [
-                 {"name":"Fail","size":6}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CGSSNG",
-        "children": [
-         {"name": "DES2193-N",
-             "children": [
+                 {"name":"Fail","size":6},
                  {"name":"Pass","size":26}
              ]
-            }
-        ]
-       }, 
-       {
-        "name": "CGSSNG",
-        "children": [
+            },
          {"name": "DES3095-N",
              "children": [
-                 {"name":"Fail","size":1}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CGSSNG",
-        "children": [
-         {"name": "DES3095-N",
-             "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":20}
              ]
-            }
-        ]
-       }, 
-       {
-        "name": "CGSSNG",
-        "children": [
+            },
          {"name": "DES3096-N",
              "children": [
-                 {"name":"Fail","size":1}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "CGSSNG",
-        "children": [
-         {"name": "DES3096-N",
-             "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":19}
              ]
             }
         ]
        },
+  
+
+
        {
         "name": "DCMPRD",
         "children": [
          {"name": "CAM4036-N",
              "children": [
-                 {"name":"Fail","size":1}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "DCMPRD",
-        "children": [
-         {"name": "CAM4036-N",
-             "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":4}
              ]
-            }
-        ]
-       },  
-       {
-        "name": "DCMPRD",
-        "children": [
+            },
          {"name": "CAM4037-N",
              "children": [
-                 {"name":"Fail","size":6}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "DCMPRD",
-        "children": [
-         {"name": "CAM4037-N",
-             "children": [
+                 {"name":"Fail","size":6},
                  {"name":"Pass","size":10}
              ]
-            }
-        ]
-       },
-       {
-        "name": "DCMPRD",
-        "children": [
+            },
          {"name": "CAM4042-N",
              "children": [
-                 {"name":"Fail","size":1}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "DCMPRD",
-        "children": [
-         {"name": "CAM4042-N",
-             "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":6}
              ]
             }
         ]
        },
+
        {
         "name": "DNCSNG",
         "children": [
@@ -398,12 +179,7 @@
              "children": [
                  {"name":"Pass","size":4}
              ]
-            }
-        ]
-       },
-       {
-        "name": "DNCSNG",
-        "children": [
+            },
          {"name": "PER3025-N",
              "children": [
                  {"name":"Pass","size":4}
@@ -411,324 +187,124 @@
             }
         ]
        },
+
        {
         "name": "FASNG",
         "children": [
          {"name": "CAM1018-N",
              "children": [
-                 {"name":"Fail","size":2}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "CAM1018-N",
-             "children": [
+                 {"name":"Fail","size":2},
                  {"name":"Pass","size":13}
              ]
-            }
-        ]
-       },   
-       {
-        "name": "FASNG",
-        "children": [
+            },
          {"name": "CAM1020-N",
              "children": [
-                 {"name":"Fail","size":2}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "CAM1020-N",
-             "children": [
+                 {"name":"Fail","size":2},
                  {"name":"Pass","size":13}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
+            },
          {"name": "CAM1022-N",
              "children": [
-                 {"name":"Fail","size":2}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "CAM1022-N",
-             "children": [
+                 {"name":"Fail","size":2},
                  {"name":"Pass","size":13}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
+            },
          {"name": "FAE2014-N",
              "children": [
-                 {"name":"Fail","size":8}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "FAE2014-N",
-             "children": [
+                 {"name":"Fail","size":8},
                  {"name":"Pass","size":18}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
+            },
          {"name": "FAE2016-N",
              "children": [
-                 {"name":"Fail","size":5}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "FAE2016-N",
-             "children": [
+                 {"name":"Fail","size":5},
                  {"name":"Pass","size":21}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
+            },
          {"name": "FAE3010-N",
              "children": [
-                 {"name":"Fail","size":2}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "FAE3010-N",
-             "children": [
+                 {"name":"Fail","size":2},
                  {"name":"Pass","size":13}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
+            },
          {"name": "FAE3013-N",
              "children": [
-                 {"name":"Fail","size":3}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FASNG",
-        "children": [
-         {"name": "FAE3013-N",
-             "children": [
+                 {"name":"Fail","size":3},
                  {"name":"Pass","size":12}
              ]
             }
-        ]
-       }, 
-       {
-        "name": "FMCUBA",
-        "children": [
-         {"name": "MFP2017-N",
-             "children": [
-                 {"name":"Fail","size":7}
-             ]
-            }
+
         ]
        },
+ 
        {
         "name": "FMCUBA",
         "children": [
          {"name": "MFP2017-N",
              "children": [
+                 {"name":"Fail","size":7},
                  {"name":"Pass","size":6}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FMCUBA",
-        "children": [
+            },
          {"name": "MFP2026-N",
              "children": [
-                 {"name":"Fail","size":5}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FMCUBA",
-        "children": [
-         {"name": "MFP2026-N",
-             "children": [
+                 {"name":"Fail","size":5},
                  {"name":"Pass","size":25}
              ]
             }
         ]
-       }, 
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "CAM0001-N",
-             "children": [
-                 {"name":"Fail","size":1}
-             ]
-            }
-        ]
        },
+
+
        {
         "name": "FTPBA",
         "children": [
          {"name": "CAM0001-N",
              "children": [
+                 {"name":"Fail","size":1},
                  {"name":"Pass","size":9}
              ]
-            }
-        ]
-       },   
-       {
-        "name": "FTPBA",
-        "children": [
+            },
          {"name": "CAM0002-N",
              "children": [
                  {"name":"Pass","size":9}
              ]
-            }
-        ]
-       },
-       {
-        "name": "FTPBA",
-        "children": [
+            },
          {"name": "CAM1016-N",
              "children": [
                  {"name":"Pass","size":29}
              ]
-            }
-        ]
-       }, 
-       {
-        "name": "FTPBA",
-        "children": [
+            },
          {"name": "CAM1030-N",
              "children": [
-                 {"name":"Fail","size":8}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "CAM1030-N",
-             "children": [
+                 {"name":"Fail","size":8},
                  {"name":"Pass","size":56}
              ]
-            }
-        ]
-       }, 
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2005-N",
-             "children": [
-                 {"name":"Fail","size":4}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2005-N",
-             "children": [
-                 {"name":"Pass","size":48}
-             ]
-            }
-        ]
-       }, 
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2006-N",
-             "children": [
-                 {"name":"Fail","size":5}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2006-N",
-             "children": [
-                 {"name":"Pass","size":48}
-             ]
-            }
-        ]
-       }, 
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2008-N",
-             "children": [
-                 {"name":"Fail","size":3}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2008-N",
-             "children": [
-                 {"name":"Pass","size":46}
-             ]
-            }
-        ]
-       }, 
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2019-N",
-             "children": [
-                 {"name":"Fail","size":4}
-             ]
-            }
-        ]
-       },
-       {
-        "name": "FTPBA",
-        "children": [
-         {"name": "MFP2010-N",
-             "children": [
-                 {"name":"Pass","size":10}
-             ]
-            }
+            },
+            {"name": "MFP2005-N",
+                "children": [
+                    {"name":"Fail","size":4},
+                    {"name":"Pass","size":48}
+                ]
+               },
+               {"name": "MFP2006-N",
+                "children": [
+                    {"name":"Fail","size":5},
+                    {"name":"Pass","size":48}
+                ]
+               },
+               {"name": "MFP2008-N",
+                "children": [
+                    {"name":"Fail","size":3},
+                    {"name":"Pass","size":46}
+                ]
+               },
+               {"name": "MFP2019-N",
+                "children": [
+                    {"name":"Fail","size":4},
+                    {"name":"Pass","size":10}
+                ]
+               }
         ]
        },
        {
