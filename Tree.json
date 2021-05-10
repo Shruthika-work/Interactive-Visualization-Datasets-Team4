@@ -1,47 +1,47 @@
 {
-    "name": "Total students : 2338",
-    "children": [
+    "treename": "Total students : 2338",
+    "treechild": [
 
 
      {
-      "name": "Year:0 (132 students)",
-      "children": [
+      "treename": "Year:0 (132 students)",
+      "treechild": [
        {
-        "name": "CAM",
-        "children": [
-         {"name": "28 Students", 
-            "children":[
-                {"name": "14 Groups"}
+        "treename": "CAM",
+        "treechild": [
+         {"treename": "28 Students", 
+            "treechild":[
+                {"treename": "14 Groups"}
             ]},
-         {"name": "5 Courses", 
-            "children": [
-             {"name":"5 Modules"}
+         {"treename": "5 Courses", 
+            "treechild": [
+             {"treename":"5 Modules"}
          ]}
         ]
        },
        {
-        "name": "CSIS",
-        "children": [
-            {"name": "53 Students", 
-                "children":[
-                    {"name": "10 Groups"}
+        "treename": "CSIS",
+        "treechild": [
+            {"treename": "53 Students", 
+                "treechild":[
+                    {"treename": "10 Groups"}
                 ]},
-             {"name": "5 Courses", 
-                "children": [
-                 {"name":"5 Modules"}
+             {"treename": "5 Courses", 
+                "treechild": [
+                 {"treename":"5 Modules"}
              ]}
         ]
        },
        {
-        "name": "GAV",
-        "children": [
-            {"name": "51 Students", 
-                "children":[
-                    {"name": "12 Groups"}
+        "treename": "GAV",
+        "treechild": [
+            {"treename": "51 Students", 
+                "treechild":[
+                    {"treename": "12 Groups"}
                 ]},
-             {"name": "8 Courses", 
-                "children": [
-                 {"name":"5 Modules"}
+             {"treename": "8 Courses", 
+                "treechild": [
+                 {"treename":"5 Modules"}
              ]}
         ]
        }
@@ -49,44 +49,44 @@
      },
 
      {
-        "name": "Year:1 (684 students)",
-        "children": [
+        "treename": "Year:1 (684 students)",
+        "treechild": [
          {
-          "name": "CAM",
-          "children": [
-           {"name": "222 Students", 
-              "children":[
-                  {"name": "38 Groups"}
+          "treename": "CAM",
+          "treechild": [
+           {"treename": "222 Students", 
+              "treechild":[
+                  {"treename": "38 Groups"}
               ]},
-           {"name": "9 Courses", 
-              "children": [
-               {"name":"17 Modules"}
+           {"treename": "9 Courses", 
+              "treechild": [
+               {"treename":"17 Modules"}
            ]}
           ]
          },
          {
-          "name": "CSIS",
-          "children": [
-              {"name": "187 Students", 
-                  "children":[
-                      {"name": "25 Groups"}
+          "treename": "CSIS",
+          "treechild": [
+              {"treename": "187 Students", 
+                  "treechild":[
+                      {"treename": "25 Groups"}
                   ]},
-               {"name": "9 Courses", 
-                  "children": [
-                   {"name":"13 Modules"}
+               {"treename": "9 Courses", 
+                  "treechild": [
+                   {"treename":"13 Modules"}
                ]}
           ]
          },
          {
-          "name": "GAV",
-          "children": [
-              {"name": "275 Students", 
-                  "children":[
-                      {"name": "37 Groups"}
+          "treename": "GAV",
+          "treechild": [
+              {"treename": "275 Students", 
+                  "treechild":[
+                      {"treename": "37 Groups"}
                   ]},
-               {"name": "14 Courses", 
-                  "children": [
-                   {"name":"16 Modules"}
+               {"treename": "14 Courses", 
+                  "treechild": [
+                   {"treename":"16 Modules"}
                ]}
           ]
          }
@@ -94,132 +94,132 @@
      },
 
      {
-        "name": "Year:2 (620 students)",
-        "children": [
+        "treename": "Year:2 (620 students)",
+        "treechild": [
          {
-          "name": "CAM",
-          "children": [
-           {"name": "226 Students", 
-              "children":[
-                  {"name": "22 Groups"}
+          "treename": "CAM",
+          "treechild": [
+           {"treename": "226 Students", 
+              "treechild":[
+                  {"treename": "22 Groups"}
               ]},
-           {"name": "9 Courses", 
-              "children": [
-               {"name":"21 Modules"}
+           {"treename": "9 Courses", 
+              "treechild": [
+               {"treename":"21 Modules"}
            ]}
           ]
          },
          {
-          "name": "CSIS",
-          "children": [
-              {"name": "154 Students", 
-                  "children":[
-                      {"name": "10 Groups"}
+          "treename": "CSIS",
+          "treechild": [
+              {"treename": "154 Students", 
+                  "treechild":[
+                      {"treename": "10 Groups"}
                   ]},
-               {"name": "9 Courses", 
-                  "children": [
-                   {"name":"13 Modules"}
+               {"treename": "9 Courses", 
+                  "treechild": [
+                   {"treename":"13 Modules"}
                ]}
           ]
          },
          {
-          "name": "GAV",
-          "children": [
-              {"name": "240 Students", 
-                  "children":[
-                      {"name": "29 Groups"}
+          "treename": "GAV",
+          "treechild": [
+              {"treename": "240 Students", 
+                  "treechild":[
+                      {"treename": "29 Groups"}
                   ]},
-               {"name": "14 Courses", 
-                  "children": [
-                   {"name":"20 Modules"}
+               {"treename": "14 Courses", 
+                  "treechild": [
+                   {"treename":"20 Modules"}
                ]}
           ]
          }
         ]
      },
      {
-        "name": "Year:3 (620 students)",
-        "children": [
+        "treename": "Year:3 (620 students)",
+        "treechild": [
          {
-          "name": "CAM",
-          "children": [
-           {"name": "204 Students", 
-              "children":[
-                  {"name": "11 Groups"}
+          "treename": "CAM",
+          "treechild": [
+           {"treename": "204 Students", 
+              "treechild":[
+                  {"treename": "11 Groups"}
               ]},
-           {"name": "12 Courses", 
-              "children": [
-               {"name":"22 Modules"}
+           {"treename": "12 Courses", 
+              "treechild": [
+               {"treename":"22 Modules"}
            ]}
           ]
          },
          {
-          "name": "CSIS",
-          "children": [
-              {"name": "171 Students", 
-                  "children":[
-                      {"name": "31 Groups"}
+          "treename": "CSIS",
+          "treechild": [
+              {"treename": "171 Students", 
+                  "treechild":[
+                      {"treename": "31 Groups"}
                   ]},
-               {"name": "11 Courses", 
-                  "children": [
-                   {"name":"21 Modules"}
+               {"treename": "11 Courses", 
+                  "treechild": [
+                   {"treename":"21 Modules"}
                ]}
           ]
          },
          {
-          "name": "GAV",
-          "children": [
-              {"name": "254 Students", 
-                  "children":[
-                      {"name": "39 Groups"}
+          "treename": "GAV",
+          "treechild": [
+              {"treename": "254 Students", 
+                  "treechild":[
+                      {"treename": "39 Groups"}
                   ]},
-               {"name": "15 Courses", 
-                  "children": [
-                   {"name":"16 Modules"}
+               {"treename": "15 Courses", 
+                  "treechild": [
+                   {"treename":"16 Modules"}
                ]}
           ]
          }
         ]
      },
      {
-        "name": "Year:4 (282 students)",
-        "children": [
+        "treename": "Year:4 (282 students)",
+        "treechild": [
          {
-          "name": "CAM",
-          "children": [
-           {"name": "76 Students", 
-              "children":[
-                  {"name": "13 Groups"}
+          "treename": "CAM",
+          "treechild": [
+           {"treename": "76 Students", 
+              "treechild":[
+                  {"treename": "13 Groups"}
               ]},
-           {"name": "7 Courses", 
-              "children": [
-               {"name":"15 Modules"}
+           {"treename": "7 Courses", 
+              "treechild": [
+               {"treename":"15 Modules"}
            ]}
           ]
          },
          {
-          "name": "CSIS",
-          "children": [
-              {"name": "69 Students", 
-                  "children":[
-                      {"name": "5 Groups"}
+          "treename": "CSIS",
+          "treechild": [
+              {"treename": "69 Students", 
+                  "treechild":[
+                      {"treename": "5 Groups"}
                   ]},
-               {"name": "12 Courses", 
-                  "children": [
-                   {"name":"13 Modules"}
+               {"treename": "12 Courses", 
+                  "treechild": [
+                   {"treename":"13 Modules"}
                ]}
           ]
          },
          {
-          "name": "GAV",
-          "children": [
-              {"name": "137 Students", 
-                  "children":[
-                      {"name": "15 Groups"}
+          "treename": "GAV",
+          "treechild": [
+              {"treename": "137 Students", 
+                  "treechild":[
+                      {"treename": "15 Groups"}
                   ]},
-               {"name": "15 Courses", 
-                  "children": [
-                   {"name":"17 Modules"}
+               {"treename": "15 Courses", 
+                  "treechild": [
+                   {"treename":"17 Modules"}
                ]}
           ]
          }
